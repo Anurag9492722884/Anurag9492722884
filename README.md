@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Backend(Django)**
 
-- 🌱 I’m currently learning **NLP,DevOps Tools,GoLang,Data Analytics**
+- 🌱 I’m currently learning **NLP,DevOps Tools,Open Source,Data Analytics**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
