@@ -37,7 +37,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anurag9492722884&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9492722884&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Anurag9492722884&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 <!-- # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
