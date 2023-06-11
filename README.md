@@ -3,7 +3,7 @@
 ![Group 4](https://github.com/Anurag9492722884/Anurag9492722884/assets/127591753/7edb17a2-ede4-4f4e-9531-5831c0477fd5)
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on **Machine Learning and Backend(Django)**
