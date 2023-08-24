@@ -34,9 +34,18 @@
 
 <!--<p/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag9492722884&show_icons=true&locale=en&layout=compact" alt="anurag9492722884" /></p>
 -->
-<p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9492722884&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anurag9492722884&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<style>
+  mark{
+    display: flex;
+    }
+</style>
 
+<mark>
+<p align="right" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9492722884&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
+
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anurag9492722884&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+</mark>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag9492722884&show_icons=true&locale=en" alt="anurag9492722884" /></p>-->
 
